@@ -5,12 +5,15 @@ $font-logo: 'Josefin Sans', sans-serif; */
 
 header {
     margin: 0 auto;
-    padding-top: 50px;
+    margin-top: 50px;
+    padding: 20px;
     width: 400px;
+    background-color:black
 }
 
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    color:aquamarine
 }
 
 h2 {
@@ -19,8 +22,10 @@ h2 {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 16px;
     font-weight: 400;
+    color:aqua
 }
 
 p {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    color:blanchedalmond
 }
